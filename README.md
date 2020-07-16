@@ -324,3 +324,7 @@ Em geral, as empresas requerem experiência em:
 | IV. Production Applications                       | 19. Performance Tuning                  | 19.2.7  | -- Aggregations                                        |         |
 | IV. Production Applications                       | 19. Performance Tuning                  | 19.2.8  | -- Broadcast Variables                                 |         |
 | IV. Production Applications                       | 19. Performance Tuning                  | 19.3    | Conclusion                                             |         |
+
+# Comandos básicos do Databricks
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8383153137003323/3949934397605030/1191695088252320/latest.html
